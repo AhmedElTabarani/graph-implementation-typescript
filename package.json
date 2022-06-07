@@ -1,0 +1,20 @@
+{
+  "name": "typescripe-graph-implementation",
+  "version": "1.0.0",
+  "description": "graph implementation in typescript",
+  "main": "dest/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest --coverage --verbose"
+  },
+  "keywords": [
+    "graph"
+  ],
+  "author": "أحمد الطبراني (Ahmed El-Tabarani)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^28.1.0",
+    "jest": "^28.1.0",
+    "ts-jest": "^28.0.5"
+  }
+}
